@@ -1,4 +1,4 @@
-# gestionscolairespringboot
+# GestionEnsupV2Docker
 
 L'application a été développée avec Spring Boot. Celle-ci permet de gérer les étudiants d'une école.
 Plusieurs fonctionnalités sont disponibles :
