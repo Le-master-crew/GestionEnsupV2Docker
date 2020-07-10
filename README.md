@@ -40,6 +40,7 @@ Technologies utilisées :
 - Heroku
 - Jenkins
 - Swagger
+- SpringSecurity
 
 Pour installer Docker : 
 -  sudo apt-get update
