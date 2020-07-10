@@ -20,7 +20,7 @@ Lancement de l'application :
 - Télécharger le projet
 - A partir de la racine du projet executer la commande : mvn spring-boot:run
 
-A partir d'un navigateur, accéder à : http://localhost:8080/ . Voici l'écran de connexion où vous pouvez vous connecter avec le compte admin:
+A partir d'un navigateur, accéder à : http://localhost:8080/gestion . Voici l'écran de connexion où vous pouvez vous connecter avec le compte admin:
 
   - identifiant : admin
   - mot de passe : admin
@@ -31,7 +31,7 @@ Vous pouvez également vous connecter avec le compte professeur (qui ne peut ni 
   - mot de passe : prof
 
 Swagger :
-Lorsque l'application est lancée aller sur : http://localhost:8080/swagger-ui.html#/
+Lorsque l'application est lancée aller sur : http://localhost:8080/gestion/swagger-ui.html#/
 
 Pour accéder à l'application en ligne déployée sur Heroku, aller sur : 
 https://gestionscolaire.herokuapp.com
